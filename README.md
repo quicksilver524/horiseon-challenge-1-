@@ -2,7 +2,7 @@
 
 ## Important links
 
-Horiseon webpage [01-html-css-git-homework-demo.png]
+Horiseon webpage [https://courses.bootcampspot.com/courses/1379/files/1499795/preview]
 
 Horiseon Website [https://quicksilver524.github.io/horiseon-challenge-1-/]
 
